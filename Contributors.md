@@ -1,5 +1,5 @@
 # Welcome Contributors 🙏
-Add your name in alphabetical order and mention your profile.
+Add your name at the end of the list and mention your profile.
 
 ***
 
