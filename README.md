@@ -1,6 +1,8 @@
 # Welcome to C0D1NG 💐
 C0D1NG is an organisation that helps everyone to contribute on open source.
 
+# List of [Contributors](https://github.com/C0D1NG/C0D1NG/blob/master/Contributors.md) 🚀
+
 ***
 
 ## The basic GitHub Flow
