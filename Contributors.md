@@ -30,3 +30,4 @@ Add your name at the end of the list and mention your profile.
 - [Sumeet Panjabi](https://github.com/sumeetp4)
 - [BadUser97](https://github.com/BadUser97)
 - [Sumana Sur](https://github.com/sumana-19)
+- [Himadri Pathak](https://github.com/HimadriPathak)
