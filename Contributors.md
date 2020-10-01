@@ -26,6 +26,7 @@
 - [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jeevika Wadhwa](https://github.com/MeeeCoder)
 - [Juli Cheng](https://github.com/julicheng)
+- [Jeremie Daniel](https://github.com/jeremie1112)
 
 # K
 - [Khushi Srivastav](https://github.com/black73)
