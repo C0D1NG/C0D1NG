@@ -26,4 +26,6 @@ Add your name at the end of the list and mention your profile.
 - [Soumyabrata Bairagi](https://github.com/sb2356-iiitr)
 - [Athul Joy](https://github.com/iathul)
 - [Shreya Pawaskar](https://github.com/shraiyya)
+- [Sarthak Shastri](https://github.com/sarthak815)
+
 
