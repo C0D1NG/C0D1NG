@@ -40,6 +40,7 @@
 # M
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Mohamed Souab](https://github.com/sawamoha20)
+- [Mrtampan](https://github.com/mrtampan)
 
 # N
 - [Novaenn](https://github.com/Novaenn)
