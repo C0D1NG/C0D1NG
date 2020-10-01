@@ -31,6 +31,8 @@
 - [Khushi Srivastav](https://github.com/black73)
 - [Kratika Garg](https://github.com/kratikaatgithub)
 
+# L
+- [Laura Perry](https://github.com/iLorah)
 # M
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 
