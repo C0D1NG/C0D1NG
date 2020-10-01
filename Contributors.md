@@ -46,6 +46,7 @@
 
 # R
 - [Riyan Pramana](https://github.com/riyanp)
+- [Rohit Kumar Saini](https://github.com/rockingrohit9639)
 
 # S
 - [SanjayDevTech](https://github.com/SanjayDevTech)
