@@ -13,6 +13,7 @@
 # B
 - [BadUser97](https://github.com/BadUser97)
 - [Belch](https://github.com/gutchaman)
+
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
@@ -35,12 +36,13 @@
 
 # L
 - [Laura Perry](https://github.com/iLorah)
+
 # M
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Mohamed Souab](https://github.com/sawamoha20)
 
 # N
-- [Novaenn] (https://github.com/Novaenn)
+- [Novaenn](https://github.com/Novaenn)
 
 # P
 - [Priyadarshini Kumari](https://github.com/pawki07)
