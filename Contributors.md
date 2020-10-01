@@ -18,3 +18,6 @@ Add your name at the end of the list and mention your profile.
 - [Saumya Ranjan Nayak](https://github.com/saumya66)
 - [Sourakanti Mandal](https://github.com/Sonu64)
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
+- [SanjayDevTech](https://github.com/SanjayDevTech)
+- [Shaswat Singh](https://github.com/shaswatsingh19)
+- [Soumyabrata Bairagi](https://github.com/sb2356-iiitr)
