@@ -9,6 +9,7 @@
 - [Arnab](https://github.com/codebook-2000)
 - [Ashish Kumar](https://github.com/akumar-99)
 - [Athul Joy](https://github.com/iathul)
+- [Alan Gordon](https://github.com/alangordon)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
