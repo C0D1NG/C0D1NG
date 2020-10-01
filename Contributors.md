@@ -36,6 +36,9 @@
 # M
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 
+# N
+- [Novaenn] (https://github.com/Novaenn)
+
 # P
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
