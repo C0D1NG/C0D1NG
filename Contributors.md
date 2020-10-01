@@ -4,6 +4,7 @@
 
 # A
 - [Ajay Kumar](https://github.com/ajay272191)
+- [Andrew Mbugua](https://github.com/AndrewMbugua)
 - [Angshuman Sengupta](https://github.com/Coderangshu)
 - [Arnab](https://github.com/codebook-2000)
 - [Ashish Kumar](https://github.com/akumar-99)
