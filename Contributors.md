@@ -77,6 +77,7 @@
 
 - [Riyan Pramana](https://github.com/riyanp)
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
+- [Rituraj](https://github.com/blackbeard173)
 
 # S
 
