@@ -27,6 +27,7 @@
 - [Himadri Pathak](https://github.com/HimadriPathak)
 
 # J
+- [Jayant Ojha](https://github.com/Jayant0jha)
 - [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jeevika Wadhwa](https://github.com/MeeeCoder)
 - [Juli Cheng](https://github.com/julicheng)
