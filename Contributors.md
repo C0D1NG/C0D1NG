@@ -11,6 +11,7 @@
 - [Ashish Kumar](https://github.com/akumar-99)
 - [Athul Joy](https://github.com/iathul)
 - [Alan Gordon](https://github.com/alangordon)
+- [Apoorv Negi](https://github.com/Nikzy7)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
