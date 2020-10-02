@@ -48,6 +48,7 @@
 # P
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
+- [Parth Talukdar] (https://github.com/parth93QA)
 
 # R
 - [Riyan Pramana](https://github.com/riyanp)
