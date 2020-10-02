@@ -37,6 +37,7 @@
 - [Jeevika Wadhwa](https://github.com/MeeeCoder)
 - [Juli Cheng](https://github.com/julicheng)
 - [Jeremie Daniel](https://github.com/jeremie1112)
+- [Jotdeep Singh](https://github.com/jotdeep)
 
 # K
 - [Khushi Srivastav](https://github.com/black73)
