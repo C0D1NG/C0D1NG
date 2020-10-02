@@ -14,6 +14,7 @@
 # B
 - [BadUser97](https://github.com/BadUser97)
 - [Belch](https://github.com/gutchaman)
+- [Barış TÜRE](https://github.com/baristure)
 
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
