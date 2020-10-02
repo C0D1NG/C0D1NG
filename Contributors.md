@@ -9,10 +9,12 @@
 - [Arnab](https://github.com/codebook-2000)
 - [Ashish Kumar](https://github.com/akumar-99)
 - [Athul Joy](https://github.com/iathul)
+- [Alan Gordon](https://github.com/alangordon)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
 - [Belch](https://github.com/gutchaman)
+- [Barış TÜRE](https://github.com/baristure)
 
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
@@ -41,6 +43,7 @@
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Mohamed Souab](https://github.com/sawamoha20)
 - [Mrtampan](https://github.com/mrtampan)
+- [Markus Hanses](https://github.com/marhan)
 
 # N
 - [Novaenn](https://github.com/Novaenn)
@@ -48,6 +51,7 @@
 # P
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
+- [Parth Talukdar](https://github.com/parth93QA)
 
 # R
 - [Riyan Pramana](https://github.com/riyanp)
