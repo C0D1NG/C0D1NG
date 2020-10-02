@@ -21,6 +21,9 @@
 - [Dheeraj Tripathi](https://github.com/dheeraj-tripathi)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
 
+# F
+- [Fajar Firdaus](https://github.com/FajarTheGGman)
+
 # H
 - [Hans Pattnaik](https://github.com/HANS-2002)
 - [Himadri Pathak](https://github.com/HimadriPathak)
