@@ -54,6 +54,7 @@
 - [Laura Perry](https://github.com/iLorah)
 
 # M
+- [Manas Sharma](https://github.com/Manas-E)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
 - [Mohamed Souab](https://github.com/sawamoha20)
 - [Mrtampan](https://github.com/mrtampan)
