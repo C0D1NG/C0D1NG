@@ -82,6 +82,7 @@
 - [sachin4429](https://github.com/sachin4429)
 - [SubhashreeHazra](https://github.com/subhashreehazra)
 - [Sourabha G ](https://github.com/sourabhaa)
+- [Sidhartha Das](https://github.com/sidharth182)
 
 # T
 - [Teddy Zugana](https://github.com/kevinmel2000)
