@@ -74,6 +74,9 @@
 - [Novaenn](https://github.com/Novaenn)
 - [Naman](https://github.com/chnamanch)
 
+# O
+- [Om Ashish Mishra](https://github.com/OmAshish)
+
 # P
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
