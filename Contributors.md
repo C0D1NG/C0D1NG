@@ -89,6 +89,7 @@
 
 # T
 - [Teddy Zugana](https://github.com/kevinmel2000)
+- [Thomas Lu](https://github.com/thomaslu2)
 
 # V
 - [Vanisha Agarwal](https://github.com/vanisha23)
