@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: bubkoo/welcome-action@v1
         with:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           FIRST_ISSUE: >
             👋 @${author}
             Congrats on creating your first Issue in the C0D1NG Organization! 🎉
