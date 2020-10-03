@@ -17,6 +17,7 @@
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
 - [Dheeraj Tripathi](https://github.com/dheeraj-tripathi)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
+- [Dicka Ismaji](https://github.com/dicka88)
 
 # H
 - [Hans Pattnaik](https://github.com/HANS-2002)
