@@ -12,6 +12,7 @@
 - [Athul Joy](https://github.com/iathul)
 - [Alan Gordon](https://github.com/alangordon)
 - [Apoorv Negi](https://github.com/Nikzy7)
+- [Ansh Mishra](https://github.com/AnshMishra2001)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
