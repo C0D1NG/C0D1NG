@@ -28,6 +28,9 @@
 # F
 - [Fajar Firdaus](https://github.com/FajarTheGGman)
 
+# G
+- [Glaucia Silva](https://github.com/GlauciaLS)
+
 # H
 - [Hans Pattnaik](https://github.com/HANS-2002)
 - [Himadri Pathak](https://github.com/HimadriPathak)
