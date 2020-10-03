@@ -11,6 +11,7 @@
 - [Ashish Kumar](https://github.com/akumar-99)
 - [Athul Joy](https://github.com/iathul)
 - [Alan Gordon](https://github.com/alangordon)
+- [Apoorv Negi](https://github.com/Nikzy7)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
@@ -54,6 +55,7 @@
 - [Markus Hanses](https://github.com/marhan)
 - [Mahendra BP](https://github.com/mahendrabp/)
 - [Manvi Garg](https://github.com/gargmanvi)
+- [m-facebook](https://github.com/m-facebook/)
 
 # N
 - [Novaenn](https://github.com/Novaenn)
@@ -83,6 +85,7 @@
 - [sachin4429](https://github.com/sachin4429)
 - [SubhashreeHazra](https://github.com/subhashreehazra)
 - [Sourabha G ](https://github.com/sourabhaa)
+- [Sidhartha Das](https://github.com/sidharth182)
 
 # T
 - [Teddy Zugana](https://github.com/kevinmel2000)
