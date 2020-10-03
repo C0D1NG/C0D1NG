@@ -24,4 +24,4 @@ jobs:
       - name: automerge
         uses: "pascalgn/automerge-action@v0.11.0"
         env:
-          ACCESS_TOKEN: "${{ secrets.ACCESS_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
