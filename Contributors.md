@@ -25,6 +25,7 @@
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
 - [Dheeraj Tripathi](https://github.com/dheeraj-tripathi)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
+- [Dhruv Sondhi](https://github.com/DhruvSondhi)
 
 # F
 - [Fajar Firdaus](https://github.com/FajarTheGGman)
