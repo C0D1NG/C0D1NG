@@ -20,6 +20,9 @@
 - [Barış TÜRE](https://github.com/baristure)
 - [Brian Archibald](https://github.com/BrianArchibald)
 
+# C
+- [Christa Bridges](https://github.com/cBridges851)
+
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
