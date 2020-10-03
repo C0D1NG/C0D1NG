@@ -96,6 +96,7 @@
 - [Sidhartha Das](https://github.com/sidharth182)
 - [Sapna](https://github.com/sapnaaryal)
 - [Snena](https://github.com/snenadha)
+- [Siddhant](https://github.com/siddhantparadox)
 
 # T
 - [Teddy Zugana](https://github.com/kevinmel2000)
