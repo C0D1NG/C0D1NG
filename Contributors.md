@@ -84,6 +84,7 @@
 - [Saumya Ranjan Nayak](https://github.com/saumya66)
 - [Shaswat Singh](https://github.com/shaswatsingh19)
 - [Shreya Pawaskar](https://github.com/shraiyya)
+- [Shubh Saxena](https://github.com/shubh9457)
 - [Sourab S Sharma](https://github.com/sharmsourab93)
 - [Sourakanti Mandal](https://github.com/Sonu64)
 - [Soumyabrata Bairagi](https://github.com/sb2356-iiitr)
