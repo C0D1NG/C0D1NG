@@ -79,6 +79,7 @@
 # S
 - [SanjayDevTech](https://github.com/SanjayDevTech)
 - [Sarthak Shastri](https://github.com/sarthak815)
+- [Saswat Samal](https://github.com/saswatsamal)
 - [Saumya Ranjan Nayak](https://github.com/saumya66)
 - [Shaswat Singh](https://github.com/shaswatsingh19)
 - [Shreya Pawaskar](https://github.com/shraiyya)
