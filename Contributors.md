@@ -17,6 +17,7 @@
 - [BadUser97](https://github.com/BadUser97)
 - [Belch](https://github.com/gutchaman)
 - [Barış TÜRE](https://github.com/baristure)
+- [Brian Archibald](https://github.com/BrianArchibald)
 
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
