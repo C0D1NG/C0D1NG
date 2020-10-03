@@ -36,6 +36,7 @@
 - [Hans Pattnaik](https://github.com/HANS-2002)
 - [Himadri Pathak](https://github.com/HimadriPathak)
 - [HuyDQ](https://github.com/dqhuy78)
+- [Harsh Gupta](https://github.com/iSpy-u)
 
 # J
 - [Jayant Ojha](https://github.com/Jayant0jha)
