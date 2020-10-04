@@ -42,6 +42,7 @@
 - [Himadri Pathak](https://github.com/HimadriPathak)
 - [HuyDQ](https://github.com/dqhuy78)
 - [Harsh Gupta](https://github.com/iSpy-u)
+- [Henry Martinez](https://github.com/martinezhenry)
 
 # J
 - [Jayant Ojha](https://github.com/Jayant0jha)
