@@ -32,6 +32,7 @@
 - [Dheeraj Tripathi](https://github.com/dheeraj-tripathi)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
 - [Dhruv Sondhi](https://github.com/DhruvSondhi)
+- [Deepam Kumar Gouda](https://github.com/Dkeepam06)
 
 # F
 - [Fajar Firdaus](https://github.com/FajarTheGGman)
