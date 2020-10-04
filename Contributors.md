@@ -113,6 +113,7 @@
 - [Sapna](https://github.com/sapnaaryal)
 - [Snena](https://github.com/snenadha)
 - [Siddhant](https://github.com/siddhantparadox)
+- [Shruti Kashyap](https://github.com/shrutikdev)
 
 # T
 - [Teddy Zugana](https://github.com/kevinmel2000)
