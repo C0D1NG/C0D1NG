@@ -5,6 +5,7 @@
 # A
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Ajay Kumar](https://github.com/ajay272191)
+- [Alexey K](https://github.com/badboygood)
 - [Andrew Mbugua](https://github.com/AndrewMbugua)
 - [Angshuman Sengupta](https://github.com/Coderangshu)
 - [Arnab](https://github.com/codebook-2000)
