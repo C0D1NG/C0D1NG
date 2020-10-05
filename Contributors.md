@@ -105,6 +105,7 @@
 - [Priyam Harsh](https://github.com/priyamharsh14)
 - [Parth Talukdar](https://github.com/parth93QA)
 - [Pratik Ahirrao](https://github.com/Pratik-ahirrao)
+- [Artyom Novoselov](https://github.com/potyoma)
 
 # R
 
