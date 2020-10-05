@@ -49,6 +49,7 @@
 - [HuyDQ](https://github.com/dqhuy78)
 - [Harsh Gupta](https://github.com/iSpy-u)
 - [Henry Martinez](https://github.com/martinezhenry)
+- [Helena Barbosa Santos](https://github.com/helenabarbs)
 
 # J
 - [Jayant Ojha](https://github.com/Jayant0jha)
