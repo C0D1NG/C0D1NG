@@ -63,6 +63,10 @@
 - [Henry Martinez](https://github.com/martinezhenry)
 - [Helena Barbosa Santos](https://github.com/helenabarbs)
 
+# I
+
+- [Isaiah Stoddard](https://github.com/isaiahmstoddard)
+
 # J
 
 - [Jayant Ojha](https://github.com/Jayant0jha)
