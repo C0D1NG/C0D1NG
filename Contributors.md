@@ -143,6 +143,7 @@
 - [Snena](https://github.com/snenadha)
 - [Siddhant](https://github.com/siddhantparadox)
 - [Shruti Kashyap](https://github.com/shrutikdev)
+-[Suraj Nayak]  (https://github.com/suraj789098)
 
 # T
 
