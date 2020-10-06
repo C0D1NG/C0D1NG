@@ -112,6 +112,7 @@
 - [Parth Talukdar](https://github.com/parth93QA)
 - [Pratik Ahirrao](https://github.com/Pratik-ahirrao)
 - [Artyom Novoselov](https://github.com/potyoma)
+- [Pritika](https://github.com/PritikaSabharwal)
 
 # R
 
