@@ -68,6 +68,7 @@
 # I
 
 - [Isaiah Stoddard](https://github.com/isaiahmstoddard)
+- [Isabella Bond](https://github.com/isabellabond)
 
 # J
 
