@@ -31,6 +31,7 @@
 # C
 
 - [Christa Bridges](https://github.com/cBridges851)
+- [Charlie Wu](https://github.com/bbbunnyyy)
 - [Catelen Wu](https://github.com/catw101)
 
 # D
