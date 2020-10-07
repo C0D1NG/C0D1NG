@@ -143,7 +143,7 @@
 - [Snena](https://github.com/snenadha)
 - [Siddhant](https://github.com/siddhantparadox)
 - [Shruti Kashyap](https://github.com/shrutikdev)
-
+- [Sanyu Daver](https://github.com/sanyud24)
 # T
 
 - [Teddy Zugana](https://github.com/kevinmel2000)
