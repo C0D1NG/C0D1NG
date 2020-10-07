@@ -112,6 +112,7 @@
 - [Om Ashish Mishra](https://github.com/OmAshish)
 
 # P
+- [pramish22] (https://github.com/pramish22)
 - [pavan sasane](https://github.com/starboy007-debug)
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
