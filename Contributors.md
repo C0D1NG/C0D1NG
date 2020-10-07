@@ -19,6 +19,7 @@
 - [Astitva Gupta](https://github.com/warned101)
 - [Ahthserhsluk](https://github.com/ahthserhsluk)
 - [Atharva Patil](https://github.com/Atharva8)
+- [Anjali Kumari](https://github.com/keshari777)
 
 # B
 
@@ -112,6 +113,7 @@
 - [Om Ashish Mishra](https://github.com/OmAshish)
 
 # P
+
 - [pavan sasane](https://github.com/starboy007-debug)
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
