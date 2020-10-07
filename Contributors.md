@@ -18,6 +18,7 @@
 - [Ansh Mishra](https://github.com/AnshMishra2001)
 - [Astitva Gupta](https://github.com/warned101)
 - [Ahthserhsluk](https://github.com/ahthserhsluk)
+- [Atharva Patil](https://github.com/Atharva8)
 
 # B
 
