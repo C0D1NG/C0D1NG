@@ -84,6 +84,7 @@
 - [Kratika Garg](https://github.com/kratikaatgithub)
 - [krifa mohamed](https://github.com/krifamed)
 - [Kye Browning](https://github.com/kyebrowning)
+- [Kunal Kanade](https://github.com/KandyKad)
 
 # L
 
