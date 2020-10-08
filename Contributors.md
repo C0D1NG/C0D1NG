@@ -64,6 +64,7 @@
 - [Harsh Gupta](https://github.com/iSpy-u)
 - [Henry Martinez](https://github.com/martinezhenry)
 - [Helena Barbosa Santos](https://github.com/helenabarbs)
+- [Henry Kim](https://github.com/SpookyCoder042)
 
 # I
 
