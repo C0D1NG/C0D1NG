@@ -178,6 +178,10 @@
 - [Varun Vaibhav Jha](https://github.com/varunvjha)
 - [vallabh Chugh](https://github.com/vallabhiaf)
 
+# W
+
+- [Wicaksono](https://github.com/icaksh)
+
 # Y
 
 - [Mungun P. Yoveer](https://github.com/yoveer)
