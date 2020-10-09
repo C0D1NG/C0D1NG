@@ -93,6 +93,7 @@
 
 # L
 
+- [Lakshita Mohanty](https://github.com/Lakshita2002)
 - [Laura Perry](https://github.com/iLorah)
 
 # M
