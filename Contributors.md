@@ -116,8 +116,9 @@
 
 # N
 
-- [Novaenn](https://github.com/Novaenn)
 - [Naman](https://github.com/chnamanch)
+- [Nexus Software Systems](https://github.com/NexWeb)
+- [Novaenn](https://github.com/Novaenn)
 - [Nuku Malik](https://github.com/nukumalik)
 
 # O
