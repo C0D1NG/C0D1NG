@@ -20,6 +20,7 @@
 - [Ahthserhsluk](https://github.com/ahthserhsluk)
 - [Atharva Patil](https://github.com/Atharva8)
 - [Anjali Kumari](https://github.com/keshari777)
+- [Anmol Gupta](https://github.com/ish-u)
 - [Autumn Davis](https://github.com/AutumnWishes87)
 
 # B
