@@ -21,6 +21,7 @@
 - [Atharva Patil](https://github.com/Atharva8)
 - [Anjali Kumari](https://github.com/keshari777)
 - [Anmol Gupta](https://github.com/ish-u)
+- [Autumn Davis](https://github.com/AutumnWishes87)
 
 # B
 
@@ -194,3 +195,4 @@
 - [Zafer S. Shah](https://github.com/Zafershah24)
 - [Zen](https://github.com/mzaini30)
 - [Zubair-12](https://github.com/Zubair-12)
+- [Zachary Moseti](https://github.com/ZachyDev)
