@@ -138,7 +138,7 @@
 - [Artyom Novoselov](https://github.com/potyoma)
 - [Pritika](https://github.com/PritikaSabharwal)
 - [Phoenix Déb](https://github.com/debPhoenix)
-- [Pratyush Raj](https://github.com/rajpratyush)
+- [Pratyush](https://github.com/rajpratyush)
 
 # R
 
