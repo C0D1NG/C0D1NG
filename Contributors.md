@@ -89,6 +89,7 @@
 
 # K
 
+- [Kenneth Palaganas](https://github.com/kenma9123)
 - [Khushi Srivastav](https://github.com/black73)
 - [Kratika Garg](https://github.com/kratikaatgithub)
 - [krifa mohamed](https://github.com/krifamed)
