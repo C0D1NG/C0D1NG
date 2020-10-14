@@ -4,6 +4,7 @@
 
 # A
 
+- [Adam Weiler](https://github.com/adam-weiler)
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Ajay Kumar](https://github.com/ajay272191)
 - [Alexey K](https://github.com/badboygood)
