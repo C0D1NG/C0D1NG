@@ -183,6 +183,7 @@
 - [Teddy Zugana](https://github.com/kevinmel2000)
 - [Thomas Lu](https://github.com/thomaslu2)
 - [Thejasree Kilari](https://github.com/ThejasreeKilari)
+- [Tushar Gupta](https://github.com/Tushargupta9800)
 
 # V
 
