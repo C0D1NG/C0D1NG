@@ -1,6 +1,6 @@
 # Welcome Contributors 🙏
 
----
+-----
 
 # A
 
@@ -54,7 +54,7 @@
 
 # E
 
--[ernesto-ca](https://github.com/ernesto-ca)
+- [ernesto-ca](https://github.com/ernesto-ca)
 
 # F
 
@@ -146,6 +146,8 @@
 - [Phoenix Déb](https://github.com/debPhoenix)
 - [Pratyush Raj](https://github.com/rajpratyush)
 
+# Q
+
 # R
 
 - [Riyan Pramana](https://github.com/riyanp)
@@ -187,6 +189,10 @@
 - [Thejasree Kilari](https://github.com/ThejasreeKilari)
 - [Tushar Gupta](https://github.com/Tushargupta9800)
 
+# U
+
+- [Utkarsh Kumar](https://github.com/HitIt007)
+
 # V
 
 - [Vanisha Agarwal](https://github.com/vanisha23)
@@ -194,14 +200,11 @@
 - [Varun Vaibhav Jha](https://github.com/varunvjha)
 - [vallabh Chugh](https://github.com/vallabhiaf)
 
-
-# U
-
-- [Utkarsh Kumar](https://github.com/HitIt007)
-
 # W
 
 - [Wicaksono](https://github.com/icaksh)
+
+# X
 
 # Y
 
