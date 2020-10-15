@@ -194,6 +194,11 @@
 - [Varun Vaibhav Jha](https://github.com/varunvjha)
 - [vallabh Chugh](https://github.com/vallabhiaf)
 
+
+# U
+
+- [Utkarsh Kumar](https://github.com/HitIt007)
+
 # W
 
 - [Wicaksono](https://github.com/icaksh)
