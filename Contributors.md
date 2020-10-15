@@ -59,6 +59,7 @@
 # F
 
 - [Fajar Firdaus](https://github.com/FajarTheGGman)
+- [Flamer17](https://github.com/Flamer17)
 
 # G
 
