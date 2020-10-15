@@ -196,7 +196,8 @@
 
 # U
 
--[Utkarsh Kumar](https://github.com/HitIt007)
+- [Utkarsh Kumar](https://github.com/HitIt007)
+
 # W
 
 - [Wicaksono](https://github.com/icaksh)
