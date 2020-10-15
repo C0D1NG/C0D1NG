@@ -177,6 +177,7 @@
 - [Shruti Kashyap](https://github.com/shrutikdev)
 - [Suraj Nayak](https://github.com/suraj789098)
 - [Sanyu Daver](https://github.com/sanyud24)
+- [Sohan Naidu](https://github.com/therealkiddo)
 
 # T
 
