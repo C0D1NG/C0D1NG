@@ -24,6 +24,7 @@
 - [Anjali Kumari](https://github.com/keshari777)
 - [Anmol Gupta](https://github.com/ish-u)
 - [Autumn Davis](https://github.com/AutumnWishes87)
+- [Anur Al Hadyd](https://github.com/hadyd)
 
 # B
 
