@@ -145,6 +145,7 @@
 - [Pritika](https://github.com/PritikaSabharwal)
 - [Phoenix Déb](https://github.com/debPhoenix)
 - [Pratyush Raj](https://github.com/rajpratyush)
+- [Punita Ojha ](https://github.com/punitaojha)
 
 # Q
 
