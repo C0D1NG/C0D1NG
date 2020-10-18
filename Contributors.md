@@ -1,6 +1,6 @@
 # Welcome Contributors 🙏
 
------
+---
 
 # A
 
@@ -162,6 +162,7 @@
 
 # S
 
+- [Sandeep Mandal](https://github.com/terminator0309)
 - [SanjayDevTech](https://github.com/SanjayDevTech)
 - [Sarthak Shastri](https://github.com/sarthak815)
 - [Saswat Samal](https://github.com/saswatsamal)
