@@ -3,7 +3,7 @@
 ---
 
 # A
-
+- [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Ajay Kumar](https://github.com/ajay272191)
