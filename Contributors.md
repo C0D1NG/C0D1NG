@@ -158,6 +158,7 @@
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
 - [Rituraj](https://github.com/blackbeard173)
 - [Raksha A](https://github.com/ComputerGeekNerd)
+- [Razeen Shaikh](https://github.com/Razeen-Shaikh)
 
 # S
 
