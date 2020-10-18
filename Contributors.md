@@ -16,6 +16,7 @@
 - [Ashish Kumar](https://github.com/akumar-99)
 - [Athul Joy](https://github.com/iathul)
 - [Alan Gordon](https://github.com/alangordon)
+- [Almas Ahmad](https://github.com/almas33)
 - [Apoorv Negi](https://github.com/Nikzy7)
 - [Ansh Mishra](https://github.com/AnshMishra2001)
 - [Astitva Gupta](https://github.com/warned101)
