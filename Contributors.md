@@ -6,6 +6,7 @@
 
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adnan Azmee](https://github.com/adnanazmee)
+- [Aishik Saha](https://github.com/thecodeboy)
 - [Ajay Kumar](https://github.com/ajay272191)
 - [Alexey K](https://github.com/badboygood)
 - [Alina Sahoo](https://github.com/alinasahoo)
