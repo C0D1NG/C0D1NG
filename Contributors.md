@@ -12,6 +12,7 @@
 - [Alina Sahoo](https://github.com/alinasahoo)
 - [Andrew Mbugua](https://github.com/AndrewMbugua)
 - [Angshuman Sengupta](https://github.com/Coderangshu)
+- [Archi Aggarwal](https://github.com/archi15)
 - [Arnab](https://github.com/codebook-2000)
 - [Arnab Deep](https://github.com/arnoob16)
 - [Ashish Kumar](https://github.com/akumar-99)
