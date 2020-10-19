@@ -63,6 +63,7 @@
 # F
 
 - [Fajar Firdaus](https://github.com/FajarTheGGman)
+- [Fauzan Hibatullah Ashari](https://github.com/asharifauzan)
 - [Flamer17](https://github.com/Flamer17)
 
 # G
