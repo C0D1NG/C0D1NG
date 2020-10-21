@@ -48,6 +48,7 @@
 # D
 
 - [Daksh Jain](https://github.com/Dakshjain1)
+- [Davis Gitonga](https://github.com/dayon3)
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
 - [Dheeraj Tripathi](https://github.com/dheeraj-tripathi)
 - [Dhiki Indryanto](https://github.com/gebleksengek)
