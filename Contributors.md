@@ -143,6 +143,7 @@
 
 # P
 
+- [Pratik Thorat](https://github.com/pratikthorat)
 - [pramish22](https://github.com/pramish22)
 - [pavan sasane](https://github.com/starboy007-debug)
 - [Priyadarshini Kumari](https://github.com/pawki07)
