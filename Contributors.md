@@ -97,6 +97,7 @@
 - [Jeremie Daniel](https://github.com/jeremie1112)
 - [Jotdeep Singh](https://github.com/jotdeep)
 - [Jupri Istomo](https://github.com/jejemo)
+- [Joel Kanyi](https://github.com/JoelKanyi)
 
 # K
 
