@@ -198,7 +198,8 @@
 - [Sohan Naidu](https://github.com/therealkiddo)
 - [Senbagaraman M](https://github.com/senbagaraman04)
 - [Shivaraj Loni](https://github.com/shivarajloni) 
-- [Snigdha Shekhar](https://github.com/sshekhar1996s) 
+- [Snigdha Shekhar](https://github.com/sshekhar1996s)
+- [Segopotso Makhutja](https://github.com/SegopotsoMakhutja) 
 
 # T
 
