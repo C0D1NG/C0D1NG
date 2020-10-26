@@ -114,6 +114,7 @@
 
 - [Lakshita Mohanty](https://github.com/Lakshita2002)
 - [Laura Perry](https://github.com/iLorah)
+- [Luiz Fantin](https://github.com/LuizFantin)
 
 # M
 
