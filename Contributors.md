@@ -15,6 +15,7 @@
 - [Archi Aggarwal](https://github.com/archi15)
 - [Arnab](https://github.com/codebook-2000)
 - [Arnab Deep](https://github.com/arnoob16)
+- [Arsan](https://github.com/arsandev)
 - [Ashish Kumar](https://github.com/akumar-99)
 - [Athul Joy](https://github.com/iathul)
 - [Alan Gordon](https://github.com/alangordon)
