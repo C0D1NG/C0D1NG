@@ -140,6 +140,7 @@
 - [Nexus Software Systems](https://github.com/NexWeb)
 - [Novaenn](https://github.com/Novaenn)
 - [Nuku Malik](https://github.com/nukumalik)
+- [Nitish-web-nik](https://github.com/Nitish-web-nik)
 
 # O
 
