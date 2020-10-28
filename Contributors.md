@@ -202,9 +202,9 @@
 - [Sanyu Daver](https://github.com/sanyud24)
 - [Sohan Naidu](https://github.com/therealkiddo)
 - [Senbagaraman M](https://github.com/senbagaraman04)
-- [Shivaraj Loni](https://github.com/shivarajloni) 
+- [Shivaraj Loni](https://github.com/shivarajloni)
 - [Snigdha Shekhar](https://github.com/sshekhar1996s)
-- [Segopotso Makhutja](https://github.com/SegopotsoMakhutja) 
+- [Segopotso Makhutja](https://github.com/SegopotsoMakhutja)
 
 # T
 
@@ -223,6 +223,7 @@
 - [Varun Bhutani](https://github.com/varunbhutani98)
 - [Varun Vaibhav Jha](https://github.com/varunvjha)
 - [vallabh Chugh](https://github.com/vallabhiaf)
+- [Vaibhav Saxena](https://github.com/vaibhav1865)
 
 # W
 
