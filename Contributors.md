@@ -33,6 +33,7 @@
 - [Ayushi Gupta](https://github.com/Aayushee25)
 - [Atharva-Parikh](https://github.com/Atharva-Parikh)
 - [Arjun Gupta](https://github.com/arjun1311)
+- [Anas El Alami](https://github.com/khofaai)
 
 # B
 
