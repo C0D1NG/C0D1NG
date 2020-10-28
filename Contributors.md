@@ -10,6 +10,7 @@
 - [Ajay Kumar](https://github.com/ajay272191)
 - [Alexey K](https://github.com/badboygood)
 - [Alina Sahoo](https://github.com/alinasahoo)
+- [EllaCherrystone](https://github.com/EllaCherrystone)
 - [Andrew Mbugua](https://github.com/AndrewMbugua)
 - [Angshuman Sengupta](https://github.com/Coderangshu)
 - [Archi Aggarwal](https://github.com/archi15)
