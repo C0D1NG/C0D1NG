@@ -32,6 +32,7 @@
 - [Anur Al Hadyd](https://github.com/hadyd)
 - [Ayushi Gupta](https://github.com/Aayushee25)
 - [Atharva-Parikh](https://github.com/Atharva-Parikh)
+- [Arjun Gupta](https://github.com/arjun1311)
 
 # B
 
