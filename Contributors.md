@@ -61,6 +61,7 @@
 - [Divyanshu Anand](https://github.com/Divyanshu9151)
 - [Deniernal354](https://github.com/Deniernal354)
 - [tykoooo](https://github.com/tykoooo)
+- [David Sennekool](https://github.com/davidsennekool)
 
 # E
 
