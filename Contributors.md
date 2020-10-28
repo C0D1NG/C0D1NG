@@ -137,6 +137,7 @@
 - [Mochaul](https://github.com/mochaul/)
 - [Maryana Morato](https://github.com/maryanamorato/)
 - [Madhurima Choudhury](https://github.com/rimchoudhury)
+- [Meriem Zaid](https://github.com/iMeriem)
 
 # N
 
