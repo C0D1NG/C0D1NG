@@ -208,6 +208,7 @@
 - [Shivaraj Loni](https://github.com/shivarajloni)
 - [Snigdha Shekhar](https://github.com/sshekhar1996s)
 - [Segopotso Makhutja](https://github.com/SegopotsoMakhutja)
+- [Saurajit Seth] (https://github.com/SowrCrem)
 
 # T
 
