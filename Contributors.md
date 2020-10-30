@@ -185,6 +185,7 @@
 
 # S
 
+- [Savethan Sritharan](https://github.com/sav7204)
 - [Sandeep Mandal](https://github.com/terminator0309)
 - [SanjayDevTech](https://github.com/SanjayDevTech)
 - [Sarthak Shastri](https://github.com/sarthak815)
