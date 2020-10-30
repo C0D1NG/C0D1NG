@@ -216,6 +216,7 @@
 - [Snigdha Shekhar](https://github.com/sshekhar1996s)
 - [Segopotso Makhutja](https://github.com/SegopotsoMakhutja)
 - [Saurajit Seth](https://github.com/SowrCrem)
+- [Sai](https://github.com/SaiKrishna0422)
 
 # T
 
