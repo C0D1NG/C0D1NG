@@ -144,7 +144,7 @@
 - [Madhurima Choudhury](https://github.com/rimchoudhury)
 - [Meriem Zaid](https://github.com/iMeriem)
 - [Mita Samanta](https://github.com/mitasamanta)
-Mansha Srivastava(https://github.com/123mansha)
+- [Mansha Srivastava](https://github.com/123mansha)
 # N
 
 - [Naman](https://github.com/chnamanch)
