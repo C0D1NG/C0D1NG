@@ -143,6 +143,7 @@
 - [Maryana Morato](https://github.com/maryanamorato/)
 - [Madhurima Choudhury](https://github.com/rimchoudhury)
 - [Meriem Zaid](https://github.com/iMeriem)
+- [Mita Samanta](https://github.com/mitasamanta)
 
 # N
 
