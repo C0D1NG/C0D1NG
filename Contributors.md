@@ -5,6 +5,7 @@
 # A
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
+- [Adarsh Kumar](https://github.com/adarsh115)
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Aishik Saha](https://github.com/thecodeboy)
 - [Ajay Kumar](https://github.com/ajay272191)
