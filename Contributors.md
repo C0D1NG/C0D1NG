@@ -63,6 +63,7 @@
 - [Deniernal354](https://github.com/Deniernal354)
 - [tykoooo](https://github.com/tykoooo)
 - [David Sennekool](https://github.com/davidsennekool)
+- [Davi Marinho](https://github.com/DaviMarinho)
 
 # E
 
