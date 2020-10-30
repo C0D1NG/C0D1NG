@@ -107,6 +107,7 @@
 - [Jotdeep Singh](https://github.com/jotdeep)
 - [Jupri Istomo](https://github.com/jejemo)
 - [Joel Kanyi](https://github.com/JoelKanyi)
+- [Julian Merida](https://github.com/JuKMR)
 
 # K
 
