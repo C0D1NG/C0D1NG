@@ -3,6 +3,7 @@
 ---
 
 # A
+
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adnan Azmee](https://github.com/adnanazmee)
@@ -208,7 +209,7 @@
 - [Shivaraj Loni](https://github.com/shivarajloni)
 - [Snigdha Shekhar](https://github.com/sshekhar1996s)
 - [Segopotso Makhutja](https://github.com/SegopotsoMakhutja)
-- [Saurajit Seth] (https://github.com/SowrCrem)
+- [Saurajit Seth](https://github.com/SowrCrem)
 
 # T
 
