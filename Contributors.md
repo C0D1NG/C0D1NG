@@ -52,6 +52,7 @@
 
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
+- [Daksh Kulshrestha](https://github.com/DevDaksh)
 - [Davis Gitonga](https://github.com/dayon3)
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
 - [Dheeraj Tripathi](https://github.com/dheeraj-tripathi)
