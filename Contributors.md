@@ -3,7 +3,6 @@
 ---
 
 # A
-
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adarsh Kumar](https://github.com/adarsh115)
@@ -38,7 +37,6 @@
 - [Anas El Alami](https://github.com/khofaai)
 
 # B
-
 - [BadUser97](https://github.com/BadUser97)
 - [Belch](https://github.com/gutchaman)
 - [Barış TÜRE](https://github.com/baristure)
@@ -46,7 +44,6 @@
 - [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
 
 # C
-
 - [Christa Bridges](https://github.com/cBridges851)
 - [Charlie Wu](https://github.com/bbbunnyyy)
 - [Catelen Wu](https://github.com/catw101)
@@ -54,7 +51,6 @@
 - [coldCoffeeDev](https://github.com/coldCoffeeDev)
 
 # D
-
 - [Daksh Jain](https://github.com/Dakshjain1)
 - [Davis Gitonga](https://github.com/dayon3)
 - [Devanshu Ruhela](https://github.com/devanshuruhela)
@@ -69,21 +65,17 @@
 - [Davi Marinho](https://github.com/DaviMarinho)
 
 # E
-
 - [ernesto-ca](https://github.com/ernesto-ca)
 
 # F
-
 - [Fajar Firdaus](https://github.com/FajarTheGGman)
 - [Fauzan Hibatullah Ashari](https://github.com/asharifauzan)
 - [Flamer17](https://github.com/Flamer17)
 
 # G
-
 - [Glaucia Silva](https://github.com/GlauciaLS)
 
 # H
-
 - [Hans Pattnaik](https://github.com/HANS-2002)
 - [Himadri Pathak](https://github.com/HimadriPathak)
 - [HuyDQ](https://github.com/dqhuy78)
@@ -93,12 +85,10 @@
 - [Henry Kim](https://github.com/SpookyCoder042)
 
 # I
-
 - [Isaiah Stoddard](https://github.com/isaiahmstoddard)
 - [Isabella Bond](https://github.com/isabellabond)
 
 # J
-
 - [Jayant Ojha](https://github.com/Jayant0jha)
 - [Jeevan Joshi](https://github.com/G1Joshi)
 - [Jeevika Wadhwa](https://github.com/MeeeCoder)
@@ -110,7 +100,6 @@
 - [Julian Merida](https://github.com/JuKMR)
 
 # K
-
 - [Karan Srivastav](https://github.com/karan3136)
 - [Kenneth Palaganas](https://github.com/kenma9123)
 - [Khushi Srivastav](https://github.com/black73)
@@ -121,13 +110,11 @@
 - [Kree666](https://github.com/kree666)
 
 # L
-
 - [Lakshita Mohanty](https://github.com/Lakshita2002)
 - [Laura Perry](https://github.com/iLorah)
 - [Luiz Fantin](https://github.com/LuizFantin)
 
 # M
-
 - [Mountwo23](https://github.com/mountwo23)
 - [Manas Sharma](https://github.com/Manas-E)
 - [Manoj Joshi](https://github.com/manojchandrajoshi)
@@ -145,8 +132,8 @@
 - [Meriem Zaid](https://github.com/iMeriem)
 - [Mita Samanta](https://github.com/mitasamanta)
 - [Mansha Srivastava](https://github.com/123mansha)
-# N
 
+# N
 - [Naman](https://github.com/chnamanch)
 - [Nexus Software Systems](https://github.com/NexWeb)
 - [Novaenn](https://github.com/Novaenn)
@@ -154,11 +141,9 @@
 - [Nitish-web-nik](https://github.com/Nitish-web-nik)
 
 # O
-
 - [Om Ashish Mishra](https://github.com/OmAshish)
 
 # P
-
 - [Pratik Thorat](https://github.com/pratikthorat)
 - [pramish22](https://github.com/pramish22)
 - [pavan sasane](https://github.com/starboy007-debug)
@@ -175,7 +160,6 @@
 # Q
 
 # R
-
 - [Riyan Pramana](https://github.com/riyanp)
 - [Rohit Kumar Saini](https://github.com/rockingrohit9639)
 - [Rituraj](https://github.com/blackbeard173)
@@ -184,7 +168,6 @@
 - [Ramkrishna Pal](https://github.com/ramkrishn123)
 
 # S
-
 - [Savethan Sritharan](https://github.com/sav7204)
 - [Sandeep Mandal](https://github.com/terminator0309)
 - [SanjayDevTech](https://github.com/SanjayDevTech)
@@ -219,18 +202,15 @@
 - [Sai](https://github.com/SaiKrishna0422)
 
 # T
-
 - [Teddy Zugana](https://github.com/kevinmel2000)
 - [Thomas Lu](https://github.com/thomaslu2)
 - [Thejasree Kilari](https://github.com/ThejasreeKilari)
 - [Tushar Gupta](https://github.com/Tushargupta9800)
 
 # U
-
 - [Utkarsh Kumar](https://github.com/HitIt007)
 
 # V
-
 - [Vanisha Agarwal](https://github.com/vanisha23)
 - [Varun Bhutani](https://github.com/varunbhutani98)
 - [Varun Vaibhav Jha](https://github.com/varunvjha)
@@ -238,18 +218,15 @@
 - [Vaibhav Saxena](https://github.com/vaibhav1865)
 
 # W
-
 - [Wicaksono](https://github.com/icaksh)
 
 # X
 
 # Y
-
 - [Mungun P. Yoveer](https://github.com/yoveer)
 - [Yash Shirbhate](https://github.com/yashimself)
 
 # Z
-
 - [Zafer S. Shah](https://github.com/Zafershah24)
 - [Zen](https://github.com/mzaini30)
 - [Zubair-12](https://github.com/Zubair-12)
