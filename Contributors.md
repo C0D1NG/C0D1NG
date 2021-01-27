@@ -35,6 +35,7 @@
 - [Atharva-Parikh](https://github.com/Atharva-Parikh)
 - [Arjun Gupta](https://github.com/arjun1311)
 - [Anas El Alami](https://github.com/khofaai)
+- [Amos Mogaka](http://github.com/Mogakamo)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
