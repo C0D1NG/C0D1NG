@@ -211,6 +211,7 @@
 - [Tushar Gupta](https://github.com/Tushargupta9800)
 
 # U
+- [Umesh Singh](https://github.com/Umesh-01)
 - [Utkarsh Kumar](https://github.com/HitIt007)
 
 # V
