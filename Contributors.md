@@ -36,6 +36,7 @@
 - [Arjun Gupta](https://github.com/arjun1311)
 - [Anas El Alami](https://github.com/khofaai)
 - [Amos Mogaka](http://github.com/Mogakamo)
+- [Azubuine Samuel](http://github.com/Axuby)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
