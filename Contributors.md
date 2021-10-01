@@ -44,6 +44,7 @@
 - [Barış TÜRE](https://github.com/baristure)
 - [Brian Archibald](https://github.com/BrianArchibald)
 - [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
+- [B Gayathri](https://github.com/bvsslgayathri-8679)
 
 # C
 - [Christa Bridges](https://github.com/cBridges851)
