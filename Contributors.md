@@ -37,6 +37,7 @@
 - [Anas El Alami](https://github.com/khofaai)
 - [Amos Mogaka](http://github.com/Mogakamo)
 - [Azubuine Samuel](http://github.com/Axuby)
+- [Anirban Ball](https://github.com/AnirbanBall)
 
 # B
 - [BadUser97](https://github.com/BadUser97)
