@@ -236,6 +236,7 @@
 # Y
 - [Mungun P. Yoveer](https://github.com/yoveer)
 - [Yash Shirbhate](https://github.com/yashimself)
+- [Yogender Singh](https://github.com/YOGENDERSS)
 
 # Z
 - [Zafer S. Shah](https://github.com/Zafershah24)
