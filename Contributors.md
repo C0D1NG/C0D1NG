@@ -139,6 +139,7 @@
 - [Mita Samanta](https://github.com/mitasamanta)
 - [Mansha Srivastava](https://github.com/123mansha)
 - [Muhammad Andika](https://github.com/andikadeveloper)
+- [Manvi Kumari Shah](https://github.com/manvikri22)
 
 # N
 - [Naman](https://github.com/chnamanch)
