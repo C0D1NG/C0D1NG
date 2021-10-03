@@ -114,6 +114,7 @@
 - [Kunal Kanade](https://github.com/KandyKad)
 - [Kree666](https://github.com/kree666)
 - [Kushal Das](https://github.com/Kushal997-das)
+- [Karan Bohara](https://github.com/KaranBohara)
 
 # L
 - [Lakshita Mohanty](https://github.com/Lakshita2002)
