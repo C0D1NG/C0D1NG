@@ -3,7 +3,7 @@
 ---
 
 # A
-
+- [Anushka Paul](https://github.com/pilipi-puu-puu)
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adarsh Kumar](https://github.com/adarsh115)
