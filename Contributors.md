@@ -53,6 +53,7 @@
 - [Catelen Wu](https://github.com/catw101)
 - [ChiboYen](https://github.com/ChiboYen)
 - [coldCoffeeDev](https://github.com/coldCoffeeDev)
+- [Chicchi7393](https://github.com/chicchi7393)
 
 # D
 - [Daksh Jain](https://github.com/Dakshjain1)
