@@ -232,6 +232,7 @@
 - [Saurajit Seth](https://github.com/SowrCrem)
 - [Sai](https://github.com/SaiKrishna0422)
 - [Shubham kumar](https://github.com/shubhamkumar-IT)
+- [Shrish Tripathi](https://github.com/shrishtrip)
 
 # T
 
