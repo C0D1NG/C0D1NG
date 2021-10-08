@@ -73,6 +73,7 @@
 - [tykoooo](https://github.com/tykoooo)
 - [David Sennekool](https://github.com/davidsennekool)
 - [Davi Marinho](https://github.com/DaviMarinho)
+- [DarlsyLida] (https://github.com/DarlsyLida)
 
 # E
 
