@@ -3,6 +3,7 @@
 ---
 
 # A
+
 - [Anushka Paul](https://github.com/pilipi-puu-puu)
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
@@ -73,7 +74,7 @@
 - [tykoooo](https://github.com/tykoooo)
 - [David Sennekool](https://github.com/davidsennekool)
 - [Davi Marinho](https://github.com/DaviMarinho)
-- [DarlsyLida] (https://github.com/DarlsyLida)
+- [DarlsyLida](https://github.com/DarlsyLida)
 
 # E
 
