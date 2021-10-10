@@ -40,6 +40,7 @@
 - [Anas El Alami](https://github.com/khofaai)
 - [Amos Mogaka](http://github.com/Mogakamo)
 - [Azubuine Samuel](http://github.com/Axuby)
+- [Azad Singh](https://github.com/azadhash)
 
 # B
 
@@ -49,7 +50,7 @@
 - [Brian Archibald](https://github.com/BrianArchibald)
 - [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
 - [B Gayathri](https://github.com/bvsslgayathri-8679)
--[Azad Singh](https://github.com/azadhash)
+-
 
 # C
 
