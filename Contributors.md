@@ -119,6 +119,7 @@
 
 # K
 
+- [Karan Dhingra](https://github.com/karan-dhingra)
 - [Karan Srivastav](https://github.com/karan3136)
 - [Kaushal Karki](https://github.com/kaushalkarki)
 - [Kenneth Palaganas](https://github.com/kenma9123)
