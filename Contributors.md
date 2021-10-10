@@ -49,6 +49,7 @@
 - [Brian Archibald](https://github.com/BrianArchibald)
 - [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
 - [B Gayathri](https://github.com/bvsslgayathri-8679)
+-[Azad Singh](https://github.com/azadhash)
 
 # C
 
