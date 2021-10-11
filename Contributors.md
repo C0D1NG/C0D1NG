@@ -200,6 +200,7 @@
 - [Razeen Shaikh](https://github.com/Razeen-Shaikh)
 - [Ramkrishna Pal](https://github.com/ramkrishn123)
 - [Ritesh](https://github.com/wordssaysalot)
+- [Rahul Singha](https://github.com/rex51)
 
 # S
 
