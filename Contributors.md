@@ -40,6 +40,7 @@
 - [Anas El Alami](https://github.com/khofaai)
 - [Amos Mogaka](http://github.com/Mogakamo)
 - [Azubuine Samuel](http://github.com/Axuby)
+- [Azad Singh](https://github.com/azadhash)
 
 # B
 
