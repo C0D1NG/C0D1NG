@@ -189,6 +189,7 @@
 - [Pratyush Raj](https://github.com/rajpratyush)
 - [Punita Ojha ](https://github.com/punitaojha)
 - [Plankton](https://github.com/hrtywhy)
+- [Pradheep Kumar](https://github.com/iampk94)
 
 # Q
 
