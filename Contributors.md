@@ -140,6 +140,7 @@
 - [Laura Perry](https://github.com/iLorah)
 - [Luiz Fantin](https://github.com/LuizFantin)
 - [Landon Lloyd](https://github.com/LandonLloyd)
+- [Lucas Hayes](https://github.com/hayeslucas1)
 
 # M
 
