@@ -11,6 +11,7 @@
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Aishik Saha](https://github.com/thecodeboy)
 - [Aishwarya Thorat](https://github.com/sakuraixiao)
+- [Agesa Collins](https://github.com/agesa3)
 - [Ajay Kumar](https://github.com/ajay272191)
 - [Alexey K](https://github.com/badboygood)
 - [Alina Sahoo](https://github.com/alinasahoo)
