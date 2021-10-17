@@ -8,6 +8,7 @@
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adarsh Kumar](https://github.com/adarsh115)
+- [Adinath Joshi](https://github.com/joshiadinath0)
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Aishik Saha](https://github.com/thecodeboy)
 - [Aishwarya Thorat](https://github.com/sakuraixiao)
