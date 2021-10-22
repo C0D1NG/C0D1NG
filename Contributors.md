@@ -80,6 +80,7 @@
 # E
 
 - [ernesto-ca](https://github.com/ernesto-ca)
+- [EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes/)
 
 # F
 
