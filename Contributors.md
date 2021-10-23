@@ -43,6 +43,7 @@
 - [Amos Mogaka](http://github.com/Mogakamo)
 - [Azubuine Samuel](http://github.com/Axuby)
 - [Azad Singh](https://github.com/azadhash)
+- [Anurag Singh](https://github.com/anuragc10)
 
 # B
 
