@@ -141,6 +141,7 @@
 
 - [Lakshita Mohanty](https://github.com/Lakshita2002)
 - [Laura Perry](https://github.com/iLorah)
+- [Luis Azcuaga](https://github.com/luisAzcuaga)
 - [Luiz Fantin](https://github.com/LuizFantin)
 - [Landon Lloyd](https://github.com/LandonLloyd)
 - [Lucas Hayes](https://github.com/hayeslucas1)
