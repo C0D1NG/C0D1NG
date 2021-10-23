@@ -76,7 +76,7 @@
 - [David Sennekool](https://github.com/davidsennekool)
 - [Davi Marinho](https://github.com/DaviMarinho)
 - [DarlsyLida](https://github.com/DarlsyLida)
-
+- [diamant3](https://github.com/diamant3)
 # E
 
 - [ernesto-ca](https://github.com/ernesto-ca)
