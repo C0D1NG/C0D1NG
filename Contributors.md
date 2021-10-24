@@ -8,9 +8,11 @@
 - [Abigail Afi Gbadago](https://github.com/AfiMaameDufie)
 - [Adam Weiler](https://github.com/adam-weiler)
 - [Adarsh Kumar](https://github.com/adarsh115)
+- [Adinath Joshi](https://github.com/joshiadinath0)
 - [Adnan Azmee](https://github.com/adnanazmee)
 - [Aishik Saha](https://github.com/thecodeboy)
 - [Aishwarya Thorat](https://github.com/sakuraixiao)
+- [Agesa Collins](https://github.com/agesa3)
 - [Ajay Kumar](https://github.com/ajay272191)
 - [Alexey K](https://github.com/badboygood)
 - [Alina Sahoo](https://github.com/alinasahoo)
@@ -41,6 +43,7 @@
 - [Amos Mogaka](http://github.com/Mogakamo)
 - [Azubuine Samuel](http://github.com/Axuby)
 - [Azad Singh](https://github.com/azadhash)
+- [Anurag Singh](https://github.com/anuragc10)
 
 # B
 
@@ -80,6 +83,7 @@
 # E
 
 - [ernesto-ca](https://github.com/ernesto-ca)
+- [EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes/)
 
 # F
 
@@ -193,6 +197,7 @@
 - [Punita Ojha ](https://github.com/punitaojha)
 - [Plankton](https://github.com/hrtywhy)
 - [Pradheep Kumar](https://github.com/iampk94)
+- [Pravin Wattamwar](https://github.com/pravin0277)
 
 # Q
 
@@ -243,6 +248,7 @@
 - [Sai](https://github.com/SaiKrishna0422)
 - [Shubham kumar](https://github.com/shubhamkumar-IT)
 - [Shrish Tripathi](https://github.com/shrishtrip)
+- [Siradanai Boonyuen](https://github.com/shin-iji)
 
 # T
 
