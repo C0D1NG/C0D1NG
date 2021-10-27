@@ -160,7 +160,7 @@
 - [m-facebook](https://github.com/m-facebook/)
 - [mohamed khounti](https://github.com/larbikhounti/)
 - [Mochaul](https://github.com/mochaul/)
-- [Maryana Morato](https://github.com/maryanamorato/)
+- [Maryana Nunes Morato](https://github.com/maryanamorato/)
 - [Madhurima Choudhury](https://github.com/rimchoudhury)
 - [Meriem Zaid](https://github.com/iMeriem)
 - [Mita Samanta](https://github.com/mitasamanta)
