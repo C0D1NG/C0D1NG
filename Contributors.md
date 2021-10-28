@@ -122,6 +122,7 @@
 - [Jupri Istomo](https://github.com/jejemo)
 - [Joel Kanyi](https://github.com/JoelKanyi)
 - [Julian Merida](https://github.com/JuKMR)
+- [Joyce Wanjiru](https://github.com/sheecodes)
 
 # K
 
