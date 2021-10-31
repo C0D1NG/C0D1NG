@@ -53,6 +53,7 @@
 - [Brian Archibald](https://github.com/BrianArchibald)
 - [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
 - [B Gayathri](https://github.com/bvsslgayathri-8679)
+- [Brandy Odhiambo](https://github.com/brandy-kay)
 
 # C
 
