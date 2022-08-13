@@ -124,6 +124,7 @@
 - [Joel Kanyi](https://github.com/JoelKanyi)
 - [Julian Merida](https://github.com/JuKMR)
 - [Joyce Wanjiru](https://github.com/sheecodes)
+- [Jery Lenas](https://github.com/alchemistphantom)
 
 # K
 
