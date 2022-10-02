@@ -81,10 +81,11 @@
 - [Davi Marinho](https://github.com/DaviMarinho)
 - [DarlsyLida](https://github.com/DarlsyLida)
 - [diamant3](https://github.com/diamant3)
+
 # E
 
 - [ernesto-ca](https://github.com/ernesto-ca)
-- [EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes/)
+- [EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes)
 
 # F
 
@@ -157,13 +158,13 @@
 - [Mohamed Souab](https://github.com/sawamoha20)
 - [Mrtampan](https://github.com/mrtampan)
 - [Markus Hanses](https://github.com/marhan)
-- [Mahendra BP](https://github.com/mahendrabp/)
+- [Mahendra BP](https://github.com/mahendrabp)
 - [Manvi Garg](https://github.com/gargmanvi)
 - [Matija Jeras](https://github.com/Quattro04)
-- [m-facebook](https://github.com/m-facebook/)
-- [mohamed khounti](https://github.com/larbikhounti/)
-- [Mochaul](https://github.com/mochaul/)
-- [Maryana Nunes Morato](https://github.com/maryanamorato/)
+- [m-facebook](https://github.com/m-facebook)
+- [mohamed khounti](https://github.com/larbikhounti)
+- [Mochaul](https://github.com/mochaul)
+- [Maryana Nunes Morato](https://github.com/maryanamorato)
 - [Madhurima Choudhury](https://github.com/rimchoudhury)
 - [Meriem Zaid](https://github.com/iMeriem)
 - [Mita Samanta](https://github.com/mitasamanta)
