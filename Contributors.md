@@ -100,13 +100,13 @@
 
 # H
 
-- [Hans Pattnaik](https://github.com/HANS-2002)
 - [Himadri Pathak](https://github.com/HimadriPathak)
 - [HuyDQ](https://github.com/dqhuy78)
 - [Harsh Gupta](https://github.com/iSpy-u)
 - [Henry Martinez](https://github.com/martinezhenry)
 - [Helena Barbosa Santos](https://github.com/helenabarbs)
 - [Henry Kim](https://github.com/SpookyCoder042)
+- [Hans Pattnaik](https://github.com/HANS-2002)
 
 # I
 
