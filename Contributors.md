@@ -53,6 +53,7 @@
 - [Brian Archibald](https://github.com/BrianArchibald)
 - [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
 - [B Gayathri](https://github.com/bvsslgayathri-8679)
+- [Brandy Odhiambo](https://github.com/brandy-kay)
 
 # C
 
@@ -79,11 +80,12 @@
 - [David Sennekool](https://github.com/davidsennekool)
 - [Davi Marinho](https://github.com/DaviMarinho)
 - [DarlsyLida](https://github.com/DarlsyLida)
+- [diamant3](https://github.com/diamant3)
 
 # E
 
 - [ernesto-ca](https://github.com/ernesto-ca)
-- [EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes/)
+- [EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes)
 
 # F
 
@@ -98,13 +100,13 @@
 
 # H
 
-- [Hans Pattnaik](https://github.com/HANS-2002)
 - [Himadri Pathak](https://github.com/HimadriPathak)
 - [HuyDQ](https://github.com/dqhuy78)
 - [Harsh Gupta](https://github.com/iSpy-u)
 - [Henry Martinez](https://github.com/martinezhenry)
 - [Helena Barbosa Santos](https://github.com/helenabarbs)
 - [Henry Kim](https://github.com/SpookyCoder042)
+- [Hans Pattnaik](https://github.com/HANS-2002)
 
 # I
 
@@ -122,6 +124,8 @@
 - [Jupri Istomo](https://github.com/jejemo)
 - [Joel Kanyi](https://github.com/JoelKanyi)
 - [Julian Merida](https://github.com/JuKMR)
+- [Joyce Wanjiru](https://github.com/sheecodes)
+- [Jery Lenas](https://github.com/alchemistphantom)
 
 # K
 
@@ -154,10 +158,13 @@
 - [Mohamed Souab](https://github.com/sawamoha20)
 - [Mrtampan](https://github.com/mrtampan)
 - [Markus Hanses](https://github.com/marhan)
-- [Mahendra BP](https://github.com/mahendrabp/)
+- [Mahendra BP](https://github.com/mahendrabp)
 - [Manvi Garg](https://github.com/gargmanvi)
 - [Matija Jeras](https://github.com/Quattro04)
-- [Maryana Nunes Morato](https://github.com/maryanamorato/)
+- [m-facebook](https://github.com/m-facebook)
+- [mohamed khounti](https://github.com/larbikhounti)
+- [Mochaul](https://github.com/mochaul)
+- [Maryana Morato](https://github.com/maryanamorato)
 - [Madhurima Choudhury](https://github.com/rimchoudhury)
 - [Meriem Zaid](https://github.com/iMeriem)
 - [Mita Samanta](https://github.com/mitasamanta)
@@ -253,6 +260,7 @@
 - [Thomas Lu](https://github.com/thomaslu2)
 - [Thejasree Kilari](https://github.com/ThejasreeKilari)
 - [Tushar Gupta](https://github.com/Tushargupta9800)
+- [Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009)
 
 # U
 
@@ -268,6 +276,8 @@
 - [Vaibhav Saxena](https://github.com/vaibhav1865)
 - [Vibhu Kumar Singh](https://github.com/Vibhukumar10)
 - [Vijayakumar](https://github.com/vijayakumarGit)
+- [Vikas Tripathi](https://github.com/ervikasji)
+- 
 
 # W
 
