@@ -202,6 +202,7 @@
 - [Plankton](https://github.com/hrtywhy)
 - [Pradheep Kumar](https://github.com/iampk94)
 - [Pravin Wattamwar](https://github.com/pravin0277)
+- [Dellucifer](https://github.com/dellucifer)
 
 # Q
 
