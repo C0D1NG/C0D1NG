@@ -253,6 +253,7 @@
 - [Shubham kumar](https://github.com/shubhamkumar-IT)
 - [Shrish Tripathi](https://github.com/shrishtrip)
 - [Siradanai Boonyuen](https://github.com/shin-iji)
+- [Sintez](https://github.com/Sinrez)
 
 # T
 
