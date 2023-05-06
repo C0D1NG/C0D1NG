@@ -107,6 +107,7 @@
 - [Helena Barbosa Santos](https://github.com/helenabarbs)
 - [Henry Kim](https://github.com/SpookyCoder042)
 - [Hans Pattnaik](https://github.com/HANS-2002)
+- [Henry Yu](https://github.com/AuroraArc)
 
 # I
 
