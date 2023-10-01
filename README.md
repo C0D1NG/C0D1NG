@@ -6,7 +6,7 @@ C0D1NG is an organization that helps everyone to contribute to open source.
 
 ---
 
-## The basic GitHub Flow
+## The GitHub Flow
 
 ![githubflow](assets/githubflow.png)
 
