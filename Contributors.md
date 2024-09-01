@@ -175,6 +175,7 @@
 
 # N
 
+- [Neetika Jain](https://github.com/NeetikaJain19)
 - [Naman](https://github.com/chnamanch)
 - [Nexus Software Systems](https://github.com/NexWeb)
 - [Novaenn](https://github.com/Novaenn)
